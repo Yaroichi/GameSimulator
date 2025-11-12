@@ -1,0 +1,3 @@
+public enum Equipment {
+    HEADSET_ONLY,HEADSET_AND_CONTROLLER,BODY_TRACKING_SUIT
+}
